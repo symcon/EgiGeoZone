@@ -10,5 +10,6 @@
 	"parentRequirements": [],
 	"childRequirements": [],
 	"implemented": [],
-	"prefix": "EGZ"
+	"prefix": "EGZ",
+	"url": "https://github.com/symcon/EgiGeoZone/tree/master/EgiGeoZone"
 }
