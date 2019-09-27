@@ -6,6 +6,7 @@
     <filter>
         <whitelist processUncoveredFilesFromWhitelist="true">
             <directory suffix=".php">../EgiGeoZone</directory>
+            <directory suffix=".php">..libs</directory>
         </whitelist>
     </filter>
 </phpunit>
