@@ -29,8 +29,8 @@ Das Modul dient zum empfangen von EgiGeoZone Daten.
 
 ### 3. Software-Installation
 
-* Über den Modul Store das Modul EgiGeoZone installieren.
-* Alternativ über das Modul Control folgende URL hinzufügen:
+* Über den Module Store das Modul EgiGeoZone installieren.
+* Alternativ über das Module Control folgende URL hinzufügen:
 `https://github.com/symcon/EgiGeoZone`
 
 ### 4. Einrichten der Instanzen in IP-Symcon
@@ -66,7 +66,7 @@ Beispiel:
 
 ##### Profile:
 
-Es werden keine zusätzlichen Profile hinzugefügt
+Es werden keine zusätzlichen Profile hinzugefügt.
 
 ### 6. WebFront
 
