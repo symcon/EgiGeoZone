@@ -35,7 +35,7 @@ Das Modul dient zum empfangen von EgiGeoZone Daten.
 
 ### 4. Einrichten der Instanzen in IP-Symcon
 
-- Unter "Instanz hinzufügen" ist das 'EgiGeoZone'-Modul unter dem Hersteller '(Kern)' aufgeführt.
+- Unter "Instanz hinzufügen" kann das 'EgiGeoZone'-Modul mithilfe der Schnellsuche gefunden werden.
 
 __Konfigurationsseite__:
 
