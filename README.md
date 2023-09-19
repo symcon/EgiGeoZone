@@ -6,5 +6,5 @@
 
 Folgende Module beinhaltet das EgiGeoZone Repository:
 
-- __EgiGeoZone__ ([Dokumentation](EgiGeoZone))  
+- __EgiGeoZone__ ([Dokumentation](https://www.symcon.de/de/service/dokumentation/modulreferenz/egigeozone))  
 	Empfängt Daten von der EgiGeoZone App für Google Android.
